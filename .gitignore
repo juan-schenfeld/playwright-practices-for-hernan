@@ -1,0 +1,4 @@
+# Playwright
+playwright/
+node_modules/
+test-results
